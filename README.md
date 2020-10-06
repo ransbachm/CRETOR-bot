@@ -31,7 +31,7 @@ Kindly refer to [CONTRIBUTING.md](https://github.com/Parthasarathi-EXT1NT/CRETOR
 And That's It!
 Follow these steps to make your very first Pull request.
 
-##Code Example
+# Code Example
 I Will Update It Soon, For Further Details Contact Me On [Discord](https://discord.gg/pcKWzR6)
 
 # Congratulations!
