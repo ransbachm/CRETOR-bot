@@ -7,7 +7,7 @@
 
 
 # CRETOR
-![CRETOR](https://i.ibb.co/821yRLn/CRETOR-gif.gif)
+![CRETOR](https://i.ibb.co/7nRgTpY/Discord-Logo.png)
 
 A Multipurpose Discord Bot Made Using Discor.js Module
 
