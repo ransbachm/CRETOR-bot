@@ -1,11 +1,9 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/AM1CODES/badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/AM1CODES/Poke-Dex.svg)](https://GitHub.com/AM1CODES/Poke-Dex/issues/)
-
 
 
 # CRETOR
-![CRETOR](https://i.ibb.co/7nRgTpY/Discord-Logo.png)
+<img align="Center" alt="CRETOR-logo.gif" width="300px" src="https://i.ibb.co/9bVwf48/Discord-Logo.png" />
 
 A Multipurpose Discord Bot Made Using Discor.js Module
 
@@ -36,6 +34,6 @@ I Will Update It Soon, For Further Details Contact Me On [Discord](https://disco
 
 Congratulations! You just made your first pull request and if it gets merged, you can view it using the Link provided above!
 
-#Help
+# Help
 1) Please Star This Repo If You Liked It
 
