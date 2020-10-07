@@ -4,7 +4,8 @@ const Discord = require("discord.js");
 //maxlistners warning fix
 process.setMaxListeners(100);
 
-require('events').EventEmitter.defaultMaxListeners = 20;
+//another maxListenersFix
+require('events').EventEmitter.defaultMaxListeners = 100;
 
 //require fs (inbuilt npm module)
 const fs = require("fs");
@@ -20,6 +21,17 @@ const command =require("./command.js")
 
 //creating new discord Client
 const client = new Discord.Client();
+
+//create discord-player
+const {Player} = require("discord-player");
+const player = new Player(client);
+
+//easy access to player object
+client.player = player;
+
+// add message in track start
+client.player.on('trackStart', (message, track) => message.channel.send(`Now playing ${track.title}...`))
+
 
 //Making bot online(Starting bot) and setting activity status
 client.on("ready",()=>{
