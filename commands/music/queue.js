@@ -5,12 +5,7 @@ module.exports = {
   callback: async (message,arguments,text,client) =>{
     const queue = await client.player.getQueue(message);
 
-    let tracks = queue["tracks"];
-    // debug logging
-    //console.log(JSON.stringify(queue["tracks"]));
-
-    // send queue information
-
+    const tracks = queue["tracks"];
 
     let tracksEmbedd = new MessageEmbed()
           .setTitle("Now playing")
